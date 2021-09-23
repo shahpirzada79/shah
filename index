@@ -1,82 +1,149 @@
-<!DOCTYPE html>
-<html lang="en">
-<head>
-    <meta charset="UTF-8">
-    <meta http-equiv="X-UA-Compatible" content="IE=edge">
-    <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <title>Assignment_1</title>
-    <link rel="stylesheet" href="style.css ">
+
+<html><head><meta http-equiv="Content-Type" content="text/html; charset=UTF-8">
+
+
+	<style type="text/css">
+		h1,
+		h2,
+		h3,
+		h4,
+		h5,
+		#menu a,
+		.pic,
+		.title {
+			font-family: 'Gotham SSm A', 'Gotham SSm B';
+			font-weight: 700;
+			font-style: normal;
+		}
+
+		body,
+		#bottom {
+			font-family: 'Gotham SSm A', 'Gotham SSm B';
+			font-weight: 400;
+			font-style: normal;
+		}
+	</style>
+	<title> Huimang Tech </title>
+	<link rel="stylesheet" href="./index_files/layout.css" type="text/css">
+	<link rel="stylesheet" type="text/css" href="./index_files/fonts.css">
+
+
 </head>
-<body>
-    <div class="main">
-    <header>
-        <img src="img.jpeg" alt="" width="20%">
-        <h1>Hammad Safdar</h1>
-    </header>
 
-    <main>
-        <section>
-            
-            <h2>About Me</h2>
-            <p>Hi,Iam Hammad Safdar.I am doing Software Engineering from International Islamic University Islamabad
+<body data-gr-ext-installed="">
+	<div class="" id="section1" bis_skin_checked="1">
+		<div id="start" bis_skin_checked="1">
+			<div id="start_text" bis_skin_checked="1">
+				<h2>We are Huimang Tech and we craft games, apps and websites.</h2>
+			</div>
+			<div id="start_image" bis_skin_checked="1">
+				<img src="./index_files/we_are_applove.png" alt="Applove">
+			</div>
+		</div>
+	</div>
+	<div class="" id="section3" bis_skin_checked="1">
+		<div id="services" bis_skin_checked="1">
+			<div id="services_text" bis_skin_checked="1">
+				<h2>Our Aims</h2>
+				Our vision is simple. We want to create websites and applications with both high quality design and easy-to-access content. The finished product will be totally unique and represent awesomeness.<br>
+				<br>
+			</div>
+			<div id="services_info" bis_skin_checked="1">
+				<div class="services_blurb" bis_skin_checked="1">
+					<img src="./index_files/userinterface.png" alt="User interface">
+					<br>
+					<br>
+					<h4>User interface design</h4>
+					Wireframing <br>
+					Prototyping <br>
+					Usability testing
+				</div>
+				<div class="services_blurb" bis_skin_checked="1">
+					<img src="./index_files/conceptandideas.png" alt="Concept and ideas">
+					<br>
+					<br>
+					<h4>Concept and ideas</h4>
+					Conceptualization <br>
+					Digital Branding <br>
+					Product Strategy
 
-            </p>
-        </section>
+				</div>
+				<div class="services_blurb" bis_skin_checked="1">
+					<img src="./index_files/designandbranding.png" alt="Design and branding">
+					<br>
+					<br>
+					<h4>Design and branding</h4>
+					Interaction Design <br>
+					Graphic Design <br>
+					Identity Design
+				</div>
+			</div>
+		</div>
+	</div>
+	<div class="" id="section4" bis_skin_checked="1">
+		<div id="work" bis_skin_checked="1">
+			<div id="work_content" bis_skin_checked="1">
+				<h2>THE TEAM</h2>
+				Huimang Tech is based in Islamabad, Pk, and consists of Hudaifa Abdullah Alone. a single Software Engineer "team" with over 3 years of experience in designing clean and easy to use Applications, not to mention awesome Android games
+				that you get addicted to. In a good way that is.
 
-        <section>
-            <h2>Personal Information</h2>
-            <table class="table">
-                <tr>
-                    <th> Name:</th>
-                    <td>Hammad Safdar</td>
-                </tr>
-                <tr>
-                    <th> Contact</th>
-                    <td> +923129882809</td>
-                </tr>
-                <tr>
-                    <th>Address:</th>
-                    <td>IIUI Hostles</td>
-                </tr>
-                <tr>
-                    <th>Email:</th>
-                    <td>hammad.bsse3798@iiu.edu.pk</td>
-                </tr>
-            </table>
-        </section>
+			</div>
+		</div>
+	</div>
+	<div class="" id="section6" bis_skin_checked="1">
+		<div id="about_us" bis_skin_checked="1">
+			<div class="pic" bis_skin_checked="1">
+				<img src="./index_files/2.png" alt="Applove" style="margin-bottom:30px;">
+			</div>
+			<h2>Hudaifa Abdullah</h2>Hudaifa is a Software Engineer &amp; the Founder of Huimang Tech. <br>“I'm a Software Developer &amp; UI/UX product designer based in Jeddah, Saudi Arabia. I enjoy turning complex problems into simple, beautiful, and
+			intuitive designs. When I'm not pushing Code Lines, you'll find me Gaming, Filming, or Watching a Kdrama.”<br> 1999 ♡♪
+			<div id="social" bis_skin_checked="1">
+				<a href="mailto:Huzaifa.bsse3923@iiu.edu.pk">
+					<img src="./index_files/email.png" alt="Email" hspace="15">
+				</a><a href="https://www.instagram.com/7odaifa_ab/">
+					<img src="./index_files/behance.png" alt="Behance" hspace="15">
+				</a><a href="https://twitter.com/7odaifa_ab">
+					<img src="./index_files/twitter.png" hspace="15" alt="Twitter">
+				</a><a href="https://www.facebook.com/7odaifa.ab/">
+					<img src="./index_files/facebook.png" hspace="15" alt="Facebook">
+				</a>
+			</div>
+		</div>
+	</div>
+	<div class="" id="section7" bis_skin_checked="1"><a>
 
-        <section>
-            <h2>Academic Information</h2>
-            <table class="acadamic">
-                <tr>
-                    <th> Institution </th>
-                    <th> Degree </th>
-                    <th> Session </th>
-                    <th> Marks/CGPA </th>
-                </tr>
-                <tr>
-                    <td>Fauji Foundation School Chakwal</td>
-                    <td> Matric </td>
-                    <td> 2013-2015 </td>
-                    <td> 887/1100 </td>
-                </tr>
-                <tr>
-                    <td> Cadet College Kallar Kahar</td>
-                    <td> FSc (Pre. Eng) </td>
-                    <td> 2015-2017 </td>
-                    <td> 847/1100 </td>
-                </tr>
-                <tr>
-                    <td> International Islamic University Islamabad </td>
-                    <td> BS Software Engineering </td>
-                    <td> 2018- Onward </td>
-                    <td> 2.9 </td>
-                </tr>
-            </table>
-        </div>
-        </section>
-    </main>
+		<table class="table">
+			<thead>
+				<tr>
+					<th>Instituion</th>
+					<th>Degree</th>
+					<th>Session</th>
+					<th>Marks/CGPA</th>
+				</tr>
+			</thead>
+			<tbody>
+				<tr>
+					<td>Inter Board Committee of Chairmen</td>
+					<td>SSC Science</td>
+					<td>2014-2015</td>
+					<td>783/900</td>
+				</tr>
+				<tr>
+					<td>Inter Board Committee of Chairmen</td>
+					<td>HSSC Pre Engineering</td>
+					<td>2016-2017</td>
+					<td>814/1100</td>
+				</tr>
+				<tr>
+					<td>International Islamic University Islamabad</td>
+					<td>BS Software Engineering</td>
+					<td>2018-Till now</td>
+					<td>3.28</td>
+				</tr>
+			</tbody>
+		</table>
+	</a>
 
-    
-</body>
-</html>
+
+
+</div></body></html>
