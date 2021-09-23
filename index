@@ -1,0 +1,82 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Assignment_1</title>
+    <link rel="stylesheet" href="style.css ">
+</head>
+<body>
+    <div class="main">
+    <header>
+        <img src="img.jpeg" alt="" width="20%">
+        <h1>Hammad Safdar</h1>
+    </header>
+
+    <main>
+        <section>
+            
+            <h2>About Me</h2>
+            <p>Hi,Iam Hammad Safdar.I am doing Software Engineering from International Islamic University Islamabad
+
+            </p>
+        </section>
+
+        <section>
+            <h2>Personal Information</h2>
+            <table class="table">
+                <tr>
+                    <th> Name:</th>
+                    <td>Hammad Safdar</td>
+                </tr>
+                <tr>
+                    <th> Contact</th>
+                    <td> +923129882809</td>
+                </tr>
+                <tr>
+                    <th>Address:</th>
+                    <td>IIUI Hostles</td>
+                </tr>
+                <tr>
+                    <th>Email:</th>
+                    <td>hammad.bsse3798@iiu.edu.pk</td>
+                </tr>
+            </table>
+        </section>
+
+        <section>
+            <h2>Academic Information</h2>
+            <table class="acadamic">
+                <tr>
+                    <th> Institution </th>
+                    <th> Degree </th>
+                    <th> Session </th>
+                    <th> Marks/CGPA </th>
+                </tr>
+                <tr>
+                    <td>Fauji Foundation School Chakwal</td>
+                    <td> Matric </td>
+                    <td> 2013-2015 </td>
+                    <td> 887/1100 </td>
+                </tr>
+                <tr>
+                    <td> Cadet College Kallar Kahar</td>
+                    <td> FSc (Pre. Eng) </td>
+                    <td> 2015-2017 </td>
+                    <td> 847/1100 </td>
+                </tr>
+                <tr>
+                    <td> International Islamic University Islamabad </td>
+                    <td> BS Software Engineering </td>
+                    <td> 2018- Onward </td>
+                    <td> 2.9 </td>
+                </tr>
+            </table>
+        </div>
+        </section>
+    </main>
+
+    
+</body>
+</html>
